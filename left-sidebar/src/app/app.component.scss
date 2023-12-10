@@ -1,0 +1,23 @@
+.left-sidebar{
+  background-color: peachpuff;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  height: calc(100vh - 137px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 109.5%;
+}
+.sidebar-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.angular-logo{
+  height: 250px;
+}
